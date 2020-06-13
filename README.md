@@ -1,2 +1,5 @@
-# mozartec_flutter_wordpress
-Display WordPress Posts using Flutter
+# Tugas Pemograman Mobile
+
+Kelompok 7
+
+
